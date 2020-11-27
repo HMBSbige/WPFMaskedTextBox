@@ -5,6 +5,16 @@
         <UseWPF>true</UseWPF>
         <LangVersion>latest</LangVersion>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>5.0.0</Version>
+        <Copyright>Copyright © HMBSbige 2020</Copyright>
+        <Authors>HMBSbige</Authors>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/HMBSbige/WPFMaskedTextBox</PackageProjectUrl>
+        <RepositoryType>https://github.com/HMBSbige/WPFMaskedTextBox</RepositoryType>
+        <PackageTags>MaskedTextBox WPF</PackageTags>
+        <Description>WPF MaskedTextBox</Description>
+        <PackageId>WPFMaskedTextBox</PackageId>
     </PropertyGroup>
 
 </Project>
