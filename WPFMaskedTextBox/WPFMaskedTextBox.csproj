@@ -11,7 +11,7 @@
         <Authors>HMBSbige</Authors>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageProjectUrl>https://github.com/HMBSbige/WPFMaskedTextBox</PackageProjectUrl>
-        <RepositoryType>https://github.com/HMBSbige/WPFMaskedTextBox</RepositoryType>
+        <RepositoryUrl>https://github.com/HMBSbige/WPFMaskedTextBox</RepositoryUrl>
         <PackageTags>MaskedTextBox WPF</PackageTags>
         <Description>WPF MaskedTextBox</Description>
         <PackageId>WPFMaskedTextBox</PackageId>
