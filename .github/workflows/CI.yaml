@@ -7,7 +7,6 @@ jobs:
     name: Build
     runs-on: windows-latest
     env:
-      NuGetAPIKey: ${{ secrets.NuGetAPIKey }}
       ProjectName: WPFMaskedTextBox
 
     steps:
